@@ -15,7 +15,7 @@ import logging.handlers
 
 import tomd
 
-AUTHOR = "Mehaei"
+AUTHOR = "spin6lock"
 
 MD_HEAD = """
 ---
